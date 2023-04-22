@@ -1,6 +1,6 @@
 ![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner_git.png)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gelndjj)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **gelndjj/gelndjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

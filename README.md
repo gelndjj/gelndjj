@@ -1,6 +1,5 @@
-### Hi there 👋
+![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner_git.png)
 
-![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner.png)
 <!--
 **gelndjj/gelndjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,26 +1,21 @@
-### Hi there 👋 !!! Welcome to my page.
+### Hi there 😎 !!! Welcome to my page.
 ____
-<p align="center"> I'm Jo, an IT tech and a Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</p>
-___
+<h6 align="center"> I'm Jo, an IT tech and a Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h6>
+____
 
 ![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner_git.png)
+___
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p>
+___
+<h3 align="left">Languages</h3>
 
-### Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!--
-**gelndjj/gelndjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Support</h3>
+<p><a href="https://ko-fi.com/gelndjj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gelndjj" /></a>
+<p>

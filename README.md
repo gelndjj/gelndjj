@@ -1,10 +1,9 @@
-<h3 align="center">Hi there 😎 !!! Welcome to my page.<br><br>I'm Jo, an IT tech and a Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
+<h3 align="center">Hi there 😎 !!! Welcome to my page.<br><br>I'm Jo, an IT tech and Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
 
 ***
 
 ![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner_git.png)
 
-***
 
 <h3 align="left">Language</h3>
 

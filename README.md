@@ -1,6 +1,4 @@
-### Hi there 😎 !!! Welcome to my page.
-***
-<h3 align="center"> I'm Jo, an IT tech and a Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
+<h3 align="center">Hi there 😎 !!! Welcome to my page.<br><br>I'm Jo, an IT tech and a Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
 
 ***
 
@@ -8,7 +6,7 @@
 
 ***
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Language</h3>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

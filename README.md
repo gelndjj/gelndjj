@@ -1,6 +1,11 @@
+<p align="center">
 ![Screenshot](https://github.com/gelndjj/gelndjj/blob/main/img/banner_git.png)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+    <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)">
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **gelndjj/gelndjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

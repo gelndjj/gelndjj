@@ -12,8 +12,9 @@
 
 ***
 
-<h3 align="left">Support</h3>
-<p><a href="https://ko-fi.com/gelndjj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gelndjj" /></a><p/>
+[//]: # (<h3 align="left">Support</h3>)
+
+[//]: # (<p><a href="https://ko-fi.com/gelndjj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gelndjj" /></a><p/>)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gelndjj&theme=transparent&hide_border=true)](https://git.io/streak-stats)

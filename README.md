@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 😎 !!! Welcome to my page.<br><br>I'm Jo, an IT tech and Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
+<h3 align="center">Hi there 😎 !!!<br><br>I'm Jo, an IT tech and Python Dev in making 😑 currently living in France but torn between 🇨🇦  and 🇲🇽 . Love coding to automate daily tasks.</h3>
 
 ***
 
@@ -8,7 +8,8 @@
 <h3 align="left">Language</h3>
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
+[![wakatime](https://wakatime.com/badge/user/cbe74224-eaee-41c4-88b0-e984310ae2d8/project/365244f0-4ccc-44be-84f8-5af2b548cf9e.svg)](https://wakatime.com/badge/user/cbe74224-eaee-41c4-88b0-e984310ae2d8/project/365244f0-4ccc-44be-84f8-5af2b548cf9e)
 
 ***
 

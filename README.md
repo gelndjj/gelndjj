@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 😎 !!!<br><br>I'm Jo, an IT tech and Python Dev in making 😑</br>Love coding to automate daily tasks.</h3>
+<h4 align="left">Hi there 😎 !!!<br><br>I'm Jo, an IT tech and Python Dev in making 😑</br>Love coding to automate daily tasks.</h4>
 
 ***
 

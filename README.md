@@ -1,4 +1,6 @@
-<h4 align="center">Hello there! 👋<br><br>Welcome to my GitHub profile. I'm all about the magic of automation, and I believe that coding is a powerful tool to simplify our daily lives. My repositories are a reflection of this passion – I love creating solutions that streamline repetitive tasks and make things more efficient.
+![Header](./img/github-header-image.png)
+
+<h4 align="center">Welcome to my GitHub profile. I'm all about the magic of automation, and I believe that coding is a powerful tool to simplify our daily lives. My repositories are a reflection of this passion – I love creating solutions that streamline repetitive tasks and make things more efficient.
 
 Mainly writing small python scripts, I enjoy diving into various programming languages and technologies to find innovative ways to automate processes. Whether it's automating data analysis, managing files, scheduling routine operations, or anything in between, you'll find my repositories for turning manual work into automated workflows.
 

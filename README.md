@@ -1,4 +1,4 @@
-![Header](./img/github-header-image.png)
+![Header](./img/gh_banner.png)
 
 <h4 align="center">Welcome to my GitHub profile. I'm all about the magic of automation, and I believe that coding is a powerful tool to simplify our daily lives. My repositories are a reflection of this passion – I love creating solutions that streamline repetitive tasks and make things more efficient.
 

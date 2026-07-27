@@ -45,6 +45,13 @@ credentials.
 
 `PowerShell` · `Microsoft Graph` · `Intune` · `Azure Automation` · `SharePoint`
 
+### [Graph App Role Manager](https://github.com/cloudbydefault/graph-app-role-manager)
+
+Windows and cross-platform graphical interfaces for inspecting, assigning, and removing
+Microsoft Graph application permissions on managed identities and service principals.
+
+`PowerShell` · `Python` · `Microsoft Graph` · `Microsoft Entra` · `Managed Identity`
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/jonathanduthil/)

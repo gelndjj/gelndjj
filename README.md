@@ -2,7 +2,7 @@
 
 > Building useful things somewhere between local and production.
 
-Welcome — this is a home for tools and experiments born from a simple question:
+Welcome, this is a home for tools and experiments born from a simple question:
 
 **Can this repetitive thing be automated?**
 
@@ -10,7 +10,7 @@ Most of my work starts around Microsoft 365, identity, endpoint management, repo
 
 ## Usually working with
 
-- Microsoft 365, Microsoft Entra ID, Intune, and Microsoft Graph
+- M365, Entra ID, Intune, and Graph
 - PowerShell, Python, and Azure Automation
 - Identity workflows, reporting, and administrative tooling
 - Desktop interfaces for tasks that deserve something friendlier than a terminal

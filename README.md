@@ -6,7 +6,7 @@ Welcome, this is a home for tools and experiments born from a simple question:
 
 **Can this repetitive thing be automated?**
 
-Most of my work starts around Microsoft 365, identity, endpoint management, reporting, and cloud administration. It does not always stay there. If an idea looks useful—or simply interesting enough to explore—it may become a project.
+Most of my work starts around Microsoft 365, identity, endpoint management, reporting, and cloud administration. It does not always stay there. If an idea looks useful, or simply interesting enough to explore, it may become a project.
 
 ## Usually working with
 

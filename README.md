@@ -35,6 +35,16 @@ Most of my work starts around Microsoft 365, identity, endpoint management, repo
 
 I also turn real implementations into practical technical articles, with an emphasis on reproducible steps, honest limitations, and code that readers can adapt to their own environments.
 
+## Featured projects
+
+### [Intune Managed Devices Inventory](https://github.com/cloudbydefault/intune-managed-devices-inventory)
+
+An Azure Automation runbook that builds an enriched Microsoft Intune device inventory,
+synchronizes it to SharePoint, and archives timestamped CSV reports—without stored
+credentials.
+
+`PowerShell` · `Microsoft Graph` · `Intune` · `Azure Automation` · `SharePoint`
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/jonathanduthil/)
